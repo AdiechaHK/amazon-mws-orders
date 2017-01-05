@@ -1,0 +1,12 @@
+{
+    "name": "adiechahk/amazon-mws-order-php-client-lib-2013-09-01",
+    "description": "php library to fetch orders",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Harikrushna V. Adiecha",
+            "email": "adiechahari@gmail.com"
+        }
+    ],
+    "require": {}
+}
